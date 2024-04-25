@@ -5,4 +5,5 @@
 https://www.oracle.com/java/technologies/downloads/
 # check JDK
     java --version
-https://github.com/ledinhchinh0212/Entertainment-Application/blob/main/sieuungdungtinhtuoi.jar
+# dowloand file .jar (Executable file)
+[Super intelligence app to calculate age](https://github.com/ledinhchinh0212/Entertainment-Application/blob/main/sieuungdungtinhtuoi.jar)
